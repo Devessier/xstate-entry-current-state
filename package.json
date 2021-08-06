@@ -1,0 +1,24 @@
+{
+  "name": "xstate-entry-current-state",
+  "version": "1.0.0",
+  "description": "Demonstration of a XState state machine entry actions behaviour",
+  "main": "index.js",
+  "dependencies": {
+    "xstate": "^4.23.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devessier/xstate-entry-current-state.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devessier/xstate-entry-current-state/issues"
+  },
+  "homepage": "https://github.com/Devessier/xstate-entry-current-state#readme"
+}
